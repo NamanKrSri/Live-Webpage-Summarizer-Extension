@@ -17,15 +17,15 @@ Perfect for students, researchers, and professionals who want to **save time and
 ## 📸 Demonstration
 
 ### 🔹 Extension Installed in Chrome
-![Extension Installed]<img width="515" height="287" alt="img 3" src="https://github.com/user-attachments/assets/61672f27-b735-4206-b3ca-93b62549d382" />
+<img width="515" height="287" alt="img 3" src="https://github.com/user-attachments/assets/61672f27-b735-4206-b3ca-93b62549d382" />
 
 ### 🔹 Summarizer Popup
-![Summarizer Popup]<img width="435" height="862" alt="img 2" src="https://github.com/user-attachments/assets/a00e1c7f-1749-4e4d-b5e1-ae2ccf5cfea2" />
+<img width="435" height="862" alt="img 2" src="https://github.com/user-attachments/assets/a00e1c7f-1749-4e4d-b5e1-ae2ccf5cfea2" />
 
 ### 🔹 Example in Action
 Select any text on a webpage → Summarize → Take notes → Save.  
 Notes will be available when you revisit the page.  
-![Example in Action]<img width="1527" height="886" alt="img 1" src="https://github.com/user-attachments/assets/94965c9b-6fe0-4d07-979a-6db98f3a97e6" />
+<img width="1527" height="886" alt="img 1" src="https://github.com/user-attachments/assets/94965c9b-6fe0-4d07-979a-6db98f3a97e6" />
 
 ---
 🧑‍💻 Tech Stack
