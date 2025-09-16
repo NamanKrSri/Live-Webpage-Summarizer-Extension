@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Webpage Summarizer </title>
+    <link rel="stylesheet" href="sidepanel.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Webpage Summarizer</h2>
+        </div>
+
+        <div class="actions">
+            <button id="summarizeBtn">Summarize</button>
+            <span id="loader" style="display:none; width:24px; height:24px; vertical-align: middle;">
+                <svg viewBox="0 0 50 50" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="25" cy="25" r="20" stroke="hsl(228, 97%, 42%)" stroke-width="5" fill="none"
+                        stroke-linecap="round" />
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 25 25"
+                        to="360 25 25" dur="1s" repeatCount="indefinite" />
+                </svg>
+            </span>
+        </div>
+
+        <div class="notes">
+            <h3>Research Notes</h3>
+            <textarea id="notes" placeholder="Take notes here"></textarea>
+            <button id="saveNotesBtn">Save Notes</button>
+        </div>
+
+        <div id="results"></div>
+    </div>
+    <script src="sidepanel.js"></script>
+</body>
+
+</html>
