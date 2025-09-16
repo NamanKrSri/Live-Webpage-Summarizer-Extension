@@ -22,9 +22,6 @@ Perfect for students, researchers, and professionals who want to **save time and
 ### 🔹 Summarizer Popup
 ![Summarizer Popup]<img width="435" height="862" alt="img 2" src="https://github.com/user-attachments/assets/a00e1c7f-1749-4e4d-b5e1-ae2ccf5cfea2" />
 
-### 🔹 Extension Icon
-![Extension Icon]<img width="1024" height="1024" alt="generated-image (1)" src="https://github.com/user-attachments/assets/138e9c62-f3bc-4d9d-855a-2b984af71604" />
-
 ### 🔹 Example in Action
 Select any text on a webpage → Summarize → Take notes → Save.  
 Notes will be available when you revisit the page.  
@@ -33,17 +30,17 @@ Notes will be available when you revisit the page.
 ---
 🧑‍💻 Tech Stack
 
-JavaScript (Frontend logic)
-Chrome Extension APIs
-AI Summarization (Gemini API / other LLM)
-Local Storage API for saving notes
+-JavaScript (Frontend logic)
+-Chrome Extension APIs
+-AI Summarization (Gemini API / other LLM)
+-Local Storage API for saving notes
 
 📌 Usage
 
-Highlight text on any webpage.
-Click the Webpage Summarizer extension icon.
-Hit Summarize – summarized content appears instantly.
-Add/edit your own notes and save them.
+-Highlight text on any webpage.
+-Click the Webpage Summarizer extension icon.
+-Hit Summarize – summarized content appears instantly.
+-Add/edit your own notes and save them.
 Come back to the same webpage later → Your notes will still be there!
    ```bash
    git clone https://github.com/your-username/live-webpage-summarizer.git
